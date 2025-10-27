@@ -1,0 +1,22 @@
+{
+  "avatar": "/avatar.jpg",
+  "signature": "Code is cheap, show me the prompts(?",
+  "bio": "A NJUer. 菜菜，捞捞qwq",
+  "links": {
+    "email": "ikalousoscar@gmail.com",
+    "github": "https://github.com/iKalous",
+    "gitee": "https://gitee.com/ikalous",
+    "gitlab": "https://gitlab.com/iKalous",
+    "blog": "https://ikalous.github.io/"
+  },
+  "friendLinks": [
+    {
+      "name": "freezetheflame",
+      "url": "https://www.freezetheflame.cc/"
+    },
+    {
+      "name": "Martin-MHT",
+      "url": "https://www.cnblogs.com/Martin-MHT"
+    }
+  ]
+}
