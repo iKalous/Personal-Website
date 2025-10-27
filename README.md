@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 个人网站
 
 这是一个使用 Next.js 构建的个人主页网站。
@@ -52,3 +53,7 @@ vercel
 ## 更新头像
 
 将你的头像图片命名为 `avatar.jpg` 并放在 `public` 文件夹中，或者修改 `profile.json` 中的 `avatar` 路径。
+=======
+# Personal-Website
+A homework based personal website(?
+>>>>>>> 39d3a040643b9936acd3851764e95e55d932eae8
