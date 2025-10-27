@@ -53,6 +53,5 @@ vercel
 ## 更新头像
 
 将你的头像图片命名为 `avatar.jpg` 并放在 `public` 文件夹中，或者修改 `profile.json` 中的 `avatar` 路径。
-=======
-# Personal-Website
+
 
